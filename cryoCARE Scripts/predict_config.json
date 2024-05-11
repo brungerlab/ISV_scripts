@@ -1,0 +1,9 @@
+{
+  "path": "cryocare_trained/model_name.tar.gz",
+  "even": "../../combine_even/*/*_rec.mrc",
+  "odd": "../../combine_odd/*/*_rec.mrc",
+  "n_tiles": [4,4,4],
+  "output": "cryocare_denoised",
+  "overwrite": "False",
+  "gpu_id": 0
+}

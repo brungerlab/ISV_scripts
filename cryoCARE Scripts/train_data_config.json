@@ -1,0 +1,18 @@
+{
+  "even": [
+    "../../combine_even/*/*_rec.mrc"
+  ],
+  "odd": [
+    "../../combine_odd/*/*_rec.mrc"
+  ],
+  "patch_shape": [
+    64,
+    64,
+    64
+  ],
+  "num_slices": 1200,
+  "split": 0.9,
+  "tilt_axis": "Z",
+  "n_normalization_samples": 500,
+  "path": "cryocare_trained"
+}
